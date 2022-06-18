@@ -1,5 +1,5 @@
 # Oi eu sou o Douglas
-# e essa é uma breve historia sobre mim  smiley:.
+# e essa é uma breve historia sobre mim  :smiley:.
 ---
 ## Hoje atuo no mercado como tecnico de eletronica. 
 e estou introduzido na area de instalaçoes de centrais de incendio :fire: e sistemas de CFTV :video_camera: .
